@@ -5,7 +5,6 @@ So sieht das Resultat aus:
 <img width="416" height="170" alt="Unbenannt" src="https://github.com/user-attachments/assets/c2170f9f-c303-48a8-a955-94cd90cef052" />
 
 
-# PDF Invoice Value Extractor (`werted.py`)
 
 Dieses Python-Skript automatisiert die Extraktion spezifischer Rechnungsdaten und Beträge aus PDF-Dokumenten. Im Gegensatz zu einfachen Text-Suchern durchsucht dieses Tool die Rechnungen gezielt nach numerischen Werten und exportiert diese gesammelt in eine übersichtliche CSV-Datei. Es ist besonders nützlich, um Spesenabrechnungen oder Quittungen schnell und ohne manuellen Aufwand zu digitalisieren.
 
