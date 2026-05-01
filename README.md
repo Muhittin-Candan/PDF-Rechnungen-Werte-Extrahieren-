@@ -22,3 +22,7 @@ Live-Feedback & Zusammenfassung: Das Skript gibt in der Konsole in Echtzeit aus,
 
 📋 Voraussetzungen
 Stelle sicher, dass Python auf deinem System installiert ist. Das Skript nutzt überwiegend Python-Standardbibliotheken (os, re, csv, unicodedata), benötigt aber zusätzlich das Paket pdfplumber zum Auslesen der PDFs.
+
+So sieht das Resultat aus:
+<img width="416" height="170" alt="Unbenannt" src="https://github.com/user-attachments/assets/c2170f9f-c303-48a8-a955-94cd90cef052" />
+
