@@ -2,6 +2,8 @@
 Liest PDF Rechunen aus und extrahiert die Werte in eine CSV Datei
 
 Dieses Python-Skript automatisiert die Extraktion spezifischer Rechnungsdaten aus PDF-Dokumenten und exportiert diese gesammelt in eine übersichtliche CSV-Datei. Es ist besonders nützlich, um wiederkehrende Informationen aus Spesenabrechnungen oder Quittungen schnell und ohne manuellen Aufwand zu digitalisieren.  
+So sieht das Resultat aus:
+<img width="416" height="170" alt="Unbenannt" src="https://github.com/user-attachments/assets/c2170f9f-c303-48a8-a955-94cd90cef052" />
 
 🚀 Funktionen
 Das Skript verarbeitet alle PDF-Dateien im Ausführungsverzeichnis und extrahiert gezielt folgende Daten:  
@@ -23,6 +25,5 @@ Live-Feedback & Zusammenfassung: Das Skript gibt in der Konsole in Echtzeit aus,
 📋 Voraussetzungen
 Stelle sicher, dass Python auf deinem System installiert ist. Das Skript nutzt überwiegend Python-Standardbibliotheken (os, re, csv, unicodedata), benötigt aber zusätzlich das Paket pdfplumber zum Auslesen der PDFs.
 
-So sieht das Resultat aus:
-<img width="416" height="170" alt="Unbenannt" src="https://github.com/user-attachments/assets/c2170f9f-c303-48a8-a955-94cd90cef052" />
+
 
