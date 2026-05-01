@@ -1,5 +1,5 @@
 # PDF-Rechnungen-Werte-Extrahieren-
-Liest PDF Rechunen aus und extrahiert die Werte in eine CSV Datei
+Liest PDF Rechungen  aus und extrahiert die Werte in eine CSV Datei
 
 So sieht das Resultat aus:
 <img width="416" height="170" alt="Unbenannt" src="https://github.com/user-attachments/assets/c2170f9f-c303-48a8-a955-94cd90cef052" />
